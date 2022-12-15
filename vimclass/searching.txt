@@ -1,0 +1,43 @@
+Searching forward is accomplished by typing f{char}.  Also, zebras eat grass.  
+
+Delete THIS<<--- word.
+
+Adam's aunt ate apples and acorns around August.
+Beth's beagle barked and bayed, becoming bothersome for Billy by the bay.
+Cathy's cat clawed her couch, creating chaos.
+Doug's dog dove deep in the dam, drinking dirty water as he dove.
+Erin's eagle eats eggs, enjoying each episode of eating.
+Fran's friends fried Fritos for Friday's food.
+Gertrude's giraffe gobbled gooseberryies greedily, getting good at grabbing goodies.
+Harry's home has heat hopefully.
+Isaac's ice cream is interesting and Isaac is imbibing it.
+Jason's jaguar is jumping and jiggling jauntily.
+Kate's kid's kept kiting.
+Lorri's lizard likes leaping leopards.
+Michael's microphone made much music.
+Nellie's nephew needed new notebooks now not never.
+Oliver's owl out-performed ostriches.
+Paul's piglet pranced priggishly.
+Quinn's quilters quit quilting quickly.
+Randy's reindeer rose rapidly and ran round the room.
+Sam's seven sisters slept soundly in sand.
+Terri's took tons of tools to make toys for tots.
+Uncle Umar's united union uses umbrellas.
+Victoria's very vixen-like and vexing.
+Wallis walked wearily while wondering where Wally was.
+Yolanda yanked you at yoga, and Yvette yelled.
+Zeke zeroed in on zoo keeping.
+
+# Global configuration
+
+DOMAIN=example.net			# The example.net domain.
+MAIL_SERVER=mail.example.net
+MAIL_PATH=/var/spool/mail
+
+# Local configuration
+
+LOCAL_DOMAIN=internal.example.net	# The internal.example.net domain.
+LOCAL_MAIL_SERVER=mail.internal.example.net
+MAIL_PATH=/var/spool/mail
+
+This training is provided by LinuxTrainingAcademy.com.

@@ -1,0 +1,42 @@
+Use characterwise visual mode to delete this => DELETE ME, DELETE ME, Yes!!! <=
+
+Yank this sentence. However, leave this one out of the registers, please.
+
+This entire paragraph should be on the same line.
+But it isn't!
+I don't know who typed this, but they didn't do a
+very
+good
+job.
+Did they?
+
+################################################################################
+Header
+Description
+################################################################################
+
+Rank,Item
+"001","Q-Tips"
+"002","Paper Towels"
+"003","Toilet Paper"
+"004","Liquid Detergent"
+"005","Mouthwash"
+"006","Cereal"
+"007","Bottled Water"
+
+This is a comment.
+So is this.
+Why, this is also a comment.
+Please, comment us out!
+
+>
+>>>
+>>>>>
+>>>>>>>
+>>>>>>>>>>
+>>>>>>>
+>>>>>
+>>>>
+>
+
+This training is provided by LinuxTrainingAcademy.com.

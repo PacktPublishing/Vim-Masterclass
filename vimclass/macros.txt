@@ -1,0 +1,50 @@
+To record a macro, use the q command followed by a regsiter. To stop, type q.
+There are no special macro registers. There is only one a register, for example.
+To replay the macro use @ followed by the register.
+To repeat the most recently executed marco, use @@.
+
+Position the cursor at the beginning of the line with 0.
+Perform your edits and/or commands.
+Move the cursor to the next line with j.
+Stop the recording with q.
+
+Think big.
+Feed and strengthen your mind.
+Better to have written a lousy ballet than to have composed no ballet at all.
+If you don’t prioritize your life, someone else will. 
+Without great solitude no serious work is possible.
+
+FIRST NAME: Joseph LAST NAME: Andrews
+FIRST NAME: Scott LAST NAME: Young
+FIRST NAME: Jessica LAST NAME: Smith
+FIRST NAME: Shirley LAST NAME: Landers
+FIRST NAME: Pamela LAST NAME: Lewis
+
+BEFORE: "Montgomery", "(Alabama)" => "usa"
+AFTER:  'Montgomery', 'Alabama', 'USA'
+
+"Montgomery", "(Alabama)" => "usa"
+"Juneau", "(Alaska)" => "usa"
+"Phoenix", "(Arizona)" => "usa"
+"Little", "(Arkansas)" => "usa"
+"Sacramento", "(California)" => "usa"
+"Denver", "(Colorado)" => "usa"
+"Hartford", "(Connecticut)" => "usa"
+"Dover", "(Delaware)" => "usa"
+"Tallahassee", "(Florida)" => "usa"
+"Atlanta", "(Georgia)" => "usa"
+
+amazon.com has address: 
+54.239.17.7
+
+google.com has address:
+216.58.192.78
+
+wikipedia.org has address:
+208.80.154.224
+
+
+
+Remember, macros just replay what's stored in a register.
+
+This training is provided by LinuxTrainingAcademy.com.

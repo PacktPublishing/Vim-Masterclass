@@ -1,0 +1,40 @@
+The Time Traveller (for so it will be convenient to speak of him) was expounding.
+
+print("The weatherman said, 'This weekend will be warm,' but that was a lie.")
+print("The weatherman said, 'This weekend will be warm,' but that was a lie.")
+print("The weatherman said, 'This weekend will be warm,' but that was a lie.")
+
+scripts=[ 'bin/backup',
+          'bin/backup-all',
+          'bin/backup-db-only',
+          'bin/backup-files-only' ]
+
+<yank_me>
+
+<p><a href="https://linuxtrainingacademy.com">Linux Training Academy</a></p>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <CD>
+    <TITLE>Jazz At Massey Hall</TITLE>
+    <ARTIST>The Quintet</ARTIST>
+  </CD>
+  <CD>
+    <TITLE>Blue Train</TITLE>
+    <ARTIST>John Coltrane</ARTIST>
+  </CD>
+  <CD>
+    <TITLE>Saxophone Colossus</TITLE>
+    <ARTIST>Sonny Rollins</ARTIST>
+  </CD>
+</CATALOG>
+
+musicians = {
+  'Charlie Parker': 'alto sax', 
+  'John Coltrane': 'tenor sax', 
+  'Sonny Rollins': 'tenor sax'
+}
+
+Praesent rutrum purus ultricies, dignissim massa id, elementum felis. Vestibulum ullamcorper? Ligula quis pharetra aliquet! Felis ex vulputate justo, non commodo metus tellus ut tortor. Sed et orci quis augue pretium sagittis lobortis non nisi. Cras rhoncus congue est, ut dapibus neque gravida id. Mauris et urna consequat, semper sapien sit amet, sollicitudin enim. Vivamus aliquam erat non eros vehicula dictum. Etiam bibendum posuere leo nec commodo. Fusce in enim fermentum, vulputate odio at, semper sapien. Etiam erat lorem, convallis vel leo ac, euismod accumsan diam. Cras in sapien sed dui dictum imperdiet. Nam vel vehicula nisl.
+
+This training is provided by LinuxTrainingAcademy.com.

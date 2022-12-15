@@ -1,0 +1,23 @@
+Use :help to get help.
+
+To exit out of help, type
+:q<ENTER>
+
+You can specify a command to get help with, too.
+:help <COMMAND>
+
+For example, if you wanted to know what "dd" does, type:
+:help dd<ENTER>
+
+You can also get help on a given subject:
+:help {subject}
+
+Example:
+:help count
+
+You can even get help with :help.
+:help :help<ENTER>
+
+The short version of the :help command is :h
+
+To switch between the help window and the editing window, use CTRL-W CTRL-W

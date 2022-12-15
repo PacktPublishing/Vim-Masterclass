@@ -1,0 +1,8 @@
+
+shoudl I use SUBJECT-lesson and SUBJECT-exercise to normalize the data?
+
+use ddp to rearrage the following lines in the proper order.
+3) adsf
+1) -asdfa
+4) -asdfasdf 
+2) -asdf

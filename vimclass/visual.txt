@@ -1,0 +1,90 @@
+Use v to start characterwise visual mode.
+Use V to start linewise visual mode.
+Use Ctrl-v to start blockwise visual mode.
+
+You can use motions to expand the visual area.
+You can also use text objects to expand the visual area.
+
+Just some of commands you can use in visual mode include:
+~ - Switch case
+c - Change
+d - Delete
+y - Yank
+r - Replace
+x - Delete
+I - Insert
+A - Append
+J - Join
+u - Make lowercase
+U - Make uppercase
+> - Shift right
+< - Shift left
+
+usa,Alabama,Montgomery
+usa,Juneau,Alaska
+usa,Phoenix,Arizona
+usa,Little,Arkansas
+usa,Sacramento,California
+usa,Denver,Colorado
+usa,Hartford,Connecticut
+usa,Dover,Delaware
+usa,Tallahassee,Florida
+usa,Atlanta,Georgia
+
+line 1: one
+line 2: one,two
+line 3: one,two,three
+line 4: one,two,three,four
+line 5: one,two,three,four,five
+line 6: one,two,three,four
+line 7: one,two,three
+line 8: one,two
+line 9: one
+
+class Person
+  def initialize(nick_name, birthdate, telephone, title)
+    nick_name=nick_name
+    birthdate=birthdate
+    telephone=telephone
+    title=title
+  end
+end
+
+john.nick_name = "Happy"
+john.birthdate = "4/4/1984"
+john.telephone = "(555) 612-2000"
+john.title = "Developer"
+
+function make_slave_device_file () {
+# Pass in slave device, slave device file, bond device.
+local S_DEVICE=$1
+local S_FILE=$2
+local BOND_D=$3
+echo "DEVICE=${S_DEVICE}" > $S_FILE
+echo "BOOTPROTO=none" >> $S_FILE
+echo "ONBOOT=yes" >> $S_FILE
+echo "MASTER=${BOND_D}" >> $S_FILE
+echo "SLAVE=yes" >> $S_FILE
+echo "USERCTL=no" >> $S_FILE
+echo "NM_CONTROLLED=no" >> $S_FILE
+}
+
+START:United States of America State Capital List
+United States of America,Alabama,Montgomery
+United States of America,Juneau,Alaska
+United States of America,Phoenix,Arizona
+United States of America,Little,Arkansas
+United States of America,Sacramento,California
+United States of America,Denver,Colorado
+United States of America,Hartford,Connecticut
+United States of America,Dover,Delaware
+United States of America,Tallahassee,Florida
+United States of America,Atlanta,Georgia
+END:United States of America State Capital List
+
+################################################################################
+Episode V:
+The Empire Strikes Back
+################################################################################
+
+This training is provided by LinuxTrainingAcademy.com.

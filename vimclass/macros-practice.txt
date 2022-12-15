@@ -1,0 +1,119 @@
+################################################################################
+# Before: print "Macros are very fun!"
+# After:  print("Macros are very fun!")
+
+print "Macros are very fun!"
+print "Macros are powerful."
+print "Macros use registers to store keystrokes."
+print "I'm so glad Vim has Macros!"
+
+################################################################################
+# Before: jason
+# After:  passwd -l jason && echo jason >> locked_users.txt
+
+jason
+sophia
+jack
+emma
+ava
+
+################################################################################
+# Before: 2798265253
+# After:  (279) 826-5253
+
+2798265253
+6189034410
+1484945696
+4317906896
+2799430841
+1047478277
+6916410205
+3355819338
+5909236283
+2596559739
+8786805143
+5013328873
+7999514683
+4117838228
+9619739991
+8958276012
+9859346956
+3396189061
+1901204747
+8908085062
+5469255241
+9207001354
+2135694193
+4083018809
+9307531230
+8602990709
+7041571881
+3025976131
+3253417438
+2178283221
+2851396731
+7497215331
+5911931954
+7546225372
+7152074664
+2037462294
+2605323972
+5724916411
+2433503994
+6588636629
+3519232904
+9968775123
+5588989433
+8744437153
+2746440780
+1915053283
+6043090832
+8768871331
+8939255738
+9711410096
+
+################################################################################
+# Before: Jan 13 09:57:01 www1 kernel: [3947771.808744] [BLOCK] IN=eth0 OUT= MAC=e6:e9:2d:04:b6:95:3c:8a:b0:0d:6f:f0:08:00 SRC=190.18.193.152 DST=2.5.9.1 LEN=40 TOS=0x02 PREC=0x00 TTL=51 ID=25120 PROTO=TCP SPT=12502 DPT=23 WINDOW=4078 RES=0x00 SYN URGP=0
+# After: Jan 13 09:57:01,190.188.193.152,23
+
+Jan 13 09:57:01 www1 kernel: [3947771.808744] [BLOCK] IN=eth0 OUT= MAC=e6:e9:2d:04:b6:95:3c:8a:b0:0d:6f:f0:08:00 SRC=190.18.193.152 DST=2.5.9.1 LEN=40 TOS=0x02 PREC=0x00 TTL=51 ID=25120 PROTO=TCP SPT=12502 DPT=23 WINDOW=4078 RES=0x00 SYN URGP=0
+Jan 13 09:57:03 www1 kernel: [3947773.766305] [BLOCK] IN=eth0 OUT= MAC=e6:e9:2d:04:b6:95:3c:8a:b0:0d:6f:f0:08:00 SRC=178.161.241.247 DST=2.5.9.1 LEN=40 TOS=0x00 PREC=0x00 TTL=57 ID=1285 PROTO=TCP SPT=2461 DPT=23 WINDOW=32485 RES=0x00 SYN URGP=0
+Jan 13 09:57:53 www1 kernel: [3947824.252547] [BLOCK] IN=eth0 OUT= MAC=e6:e9:2d:04:b6:95:3c:8a:b0:0d:3f:f0:08:00 SRC=121.97.255.189 DST=2.5.9.1 LEN=40 TOS=0x00 PREC=0x00 TTL=243 ID=18753 PROTO=TCP SPT=44235 DPT=23 WINDOW=14600 RES=0x00 SYN URGP=0
+Jan 13 09:58:03 www1 kernel: [3947833.987853] [BLOCK] IN=eth0 OUT= MAC=e6:e9:2d:04:b6:95:3c:8a:b0:0d:3f:f0:08:00 SRC=121.42.48.1 DST=2.5.9.1 LEN=60 TOS=0x00 PREC=0x00 TTL=46 ID=56401 DF PROTO=TCP SPT=51370 DPT=22 WINDOW=29200 RES=0x00 SYN URGP=0
+Jan 13 09:58:04 www1 kernel: [3947834.989647] [BLOCK] IN=eth0 OUT= MAC=e6:e9:2d:04:b6:95:3c:8a:b0:0d:3f:f0:08:00 SRC=121.42.48.1 DST=2.5.9.1 LEN=60 TOS=0x00 PREC=0x00 TTL=46 ID=56402 DF PROTO=TCP SPT=51370 DPT=22 WINDOW=29200 RES=0x00 SYN URGP=0
+Jan 13 09:58:14 www1 kernel: [3947844.954077] [BLOCK] IN=eth0 OUT= MAC=e6:e9:2d:04:b6:95:3c:8a:b0:0d:3f:f0:08:00 SRC=19.151.115.132 DST=2.5.9.1 LEN=40 TOS=0x00 PREC=0x00 TTL=245 ID=58247 PROTO=TCP SPT=16299 DPT=23 WINDOW=14600 RES=0x00 SYN URGP=0
+Jan 13 09:58:35 www1 kernel: [3947866.407376] [BLOCK] IN=eth0 OUT= MAC=e6:e9:2d:04:b6:95:3c:8a:b0:0d:6f:f0:08:00 SRC=67.20.141.62 DST=2.5.9.1 LEN=40 TOS=0x00 PREC=0x00 TTL=248 ID=52033 PROTO=TCP SPT=47676 DPT=59766 WINDOW=1024 RES=0x00 SYN URGP=0
+Jan 13 09:58:52 www1 kernel: [3947883.064171] [BLOCK] IN=eth0 OUT= MAC=e6:e9:2d:04:b6:95:3c:8a:b0:0d:3f:f0:08:00 SRC=171.233.166.26 DST=2.5.9.1 LEN=44 TOS=0x00 PREC=0x00 TTL=237 ID=49049 PROTO=TCP SPT=32189 DPT=23 WINDOW=14600 RES=0x00 SYN URGP=0
+Jan 13 10:00:06 www1 kernel: [3947957.338001] [BLOCK] IN=eth0 OUT= MAC=e6:e9:2d:04:b6:95:3c:8a:b0:0d:3f:f0:08:00 SRC=101.85.53.249 DST=2.5.9.1 LEN=40 TOS=0x00 PREC=0x00 TTL=52 ID=17125 PROTO=TCP SPT=5703 DPT=23 WINDOW=59049 RES=0x00 SYN URGP=0
+Jan 13 10:00:26 www1 kernel: [3947976.555062] [BLOCK] IN=eth0 OUT= MAC=e6:e9:2d:04:b6:95:3c:8a:b0:0d:6f:f0:08:00 SRC=17.172.212.191 DST=2.5.9.1 LEN=40 TOS=0x00 PREC=0x00 TTL=246 ID=12721 PROTO=TCP SPT=35320 DPT=23 WINDOW=14600 RES=0x00 SYN URGP=0
+
+################################################################################
+# Before:
+#         Country China
+#         1,380,950,000 people
+#
+# After: 
+#         1,380,950,000;China
+
+Country China
+1,380,950,000 people
+
+Country India
+1,310,540,000 people
+
+Country United States
+324,369,000 people
+
+Country Indonesia
+260,581,000 people
+
+Country Brazil
+206,960,000 people
+
+################################################################################
+# Before: <a href="#">@armyspy.com</a>
+# After:  armyspy.com
+
+<a href="#">@armyspy.com</a><a href="#">@cuvox.de</a><a href="#">@dayrep.com</a><a href="#">@einrot.com</a><a href="#">@fleckens.hu</a><a href="#">@gustr.com</a><a href="#">@jourrapide.com</a><a href="#">@rhyta.com</a><a href="#">@superrito.com</a><a href="#">@teleworm.us</a>
+
+This training is provided by LinuxTrainingAcademy.com.
